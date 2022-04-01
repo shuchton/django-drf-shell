@@ -16,5 +16,3 @@ Create a file called `.env` in the `.devcontainer` folder with the following con
 SECRET_KEY=*output from the command above*
 ```
 
-replacing *output from the command above* with your secret key.
-
